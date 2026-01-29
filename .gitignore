@@ -203,3 +203,10 @@ calibration_*.npy
 # Training logs
 args.yaml
 results.csv
+
+/Study/datasets
+/Study/runs
+/Study/weights
+/Study/calibration_*.npy
+/Study/mlruns
+/Study/study*
